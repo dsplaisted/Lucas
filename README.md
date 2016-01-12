@@ -7,7 +7,7 @@
     $ $ $ $ $ $ $ $ $ $
     $ $ $ $ $ $ $ $ $ $
     $ $ $ $ $ $ $ $ $ $
-    $ O O O O O O O O O
+    $ $ $ O O O O O O O
     0 O O O O O O O O O
     0 O O O O O O O O O
     0 O O O O O O O O O
